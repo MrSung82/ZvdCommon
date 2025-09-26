@@ -1,0 +1,6 @@
+[submodule "thirdparty_submodules/eabase"]
+	path = thirdparty_submodules/eabase
+	url = git@github.com:MrSung82/ZvdEABase.git
+[submodule "thirdparty_submodules/eastl"]
+	path = thirdparty_submodules/eastl
+	url = git@github.com:MrSung82/ZvdEASTL.git
